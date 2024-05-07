@@ -1,0 +1,4 @@
+ techstack:
+  application:
+    - laravelhanyen1:9.52.15
+    - phphanyenyen1:8.0.2
